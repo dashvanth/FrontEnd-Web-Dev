@@ -6,7 +6,8 @@ This folder serves as the starting point for my frontend web development journey
 
 ## Folder Structure
 
-- CSS Basics
+- CSS Basics.
+- Intermediate CSS.
 
 The "CSS" folder is organized into multiple levels, each representing a stage of my learning journey.
 
