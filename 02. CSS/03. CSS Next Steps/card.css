@@ -1,0 +1,19 @@
+.card{
+    width: 250px;
+    /* height: 200px; */
+    border: 3px solid rgb(142, 141, 82);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(173, 173, 201);
+    margin: 0 auto;
+    transition: 0.5s;
+}
+.card:hover{
+    transform: scale(0.9);
+    box-shadow: 8px 8px 14px rgb(103, 103, 92);
+}
+img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    
+}
+
