@@ -9,6 +9,7 @@ This folder serves as the starting point for my frontend web development journey
 - CSS Basics.
 - Intermediate CSS.
 - CSS Next Steps.
+- Flexbox & Grid.
 
 The "CSS" folder is organized into multiple levels, each representing a stage of my learning journey.
 
