@@ -1,0 +1,30 @@
+.card{
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+img{
+    width: 100%;
+    border-radius: 25px;
+}
+#pets{
+    display: flex;
+    justify-content: space-evenly;
+}
+#CTA span{
+    color: darkgoldenrod;
+}
+#logo{
+    color: orange;
+}
+h4{
+    text-align: right;
+    color: rgb(51, 177, 177);
+}
+@media (max-width:375px){
+    #pets{
+        flex-wrap: wrap;
+    }
+}
