@@ -15,6 +15,8 @@ Throughout my frontend web development journey, I will be covering various topic
 
 - HTML5
 - CSS3
+- Bootstrap
+- JavaScript
 
 
 ## Projects
