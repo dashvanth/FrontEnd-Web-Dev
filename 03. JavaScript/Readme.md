@@ -1,4 +1,5 @@
     #JavaScript
 
     - JavaScript Part-01
-    - JavaScript Part- 02
+    - JavaScript Part-02
+    - JavaScript Part-03
