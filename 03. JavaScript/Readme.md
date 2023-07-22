@@ -5,3 +5,4 @@
     - JavaScript Part-03
     - JavaScript Part-04
     - JavaScript Part-05
+    - JavaScript Part-06
