@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 500px;
+    border:1px solid black;
+    margin:2rem auto;
+}
+
+.box{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+}
