@@ -18,6 +18,7 @@ The "javascript" folder is organized into different parts, each focusing on spec
 - Javascript Part-08
 - Javascript Part-09 (DOM Part-01)
 - Javascript Part-10 (DOM Part-02)
+- Javascript Part-11 (DOM Part-03) Mini Project
 
 ## Goals 🎯
 
