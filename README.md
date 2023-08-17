@@ -17,6 +17,7 @@ Throughout my frontend web development journey, I will be covering various topic
 - CSS3
 - Bootstrap
 - JavaScript
+- Github
 
 
 ## Projects
